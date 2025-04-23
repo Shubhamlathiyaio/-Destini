@@ -1,4 +1,4 @@
-import 'package:destini/commons/common_text.dart';
+import 'package:destini/services/commons/common_text.dart';
 import 'package:flutter/material.dart';
 
 // ignore: non_constant_identifier_names
